@@ -2,7 +2,7 @@
   "name": "clicky-game-got",
   "homepage": "https://hsaxion8.github.io/Clicky-Game-GOT/",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
